@@ -1,0 +1,10 @@
+Thor,100
+IronMan,75
+StarLord,100
+Thanos,50
+Gemora,75
+Odin,75
+Loki,50
+Hawk,75
+Vision,100
+a,100
